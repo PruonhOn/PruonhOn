@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0D6EFD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;UI%2FUX+Designer;Problem+Solver;Quick+Learner)
 
-<img src="[https://avatars.githubusercontent.com/u/197072278?v=4](https://avatars.githubusercontent.com/u/197072278?s=400&u=9de1f758c586010ecdfb8222b44575f6d21cc586&v=4)" width="200" style="border-radius: 50%;" />
+<img src="https://avatars.githubusercontent.com/u/197072278?v=4](https://avatars.githubusercontent.com/u/197072278?s=400&u=9de1f758c586010ecdfb8222b44575f6d21cc586&v=4)(https://avatars.githubusercontent.com/u/197072278?v=4)" width="200" style="border-radius: 50%;" />
 
 ### 🚀 Full Stack Developer from Cambodia 🇰🇭
 **📍 Based in Kompong Speu | 💼 Open to Work | 🎓 2nd Year College Student**
